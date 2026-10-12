@@ -25,8 +25,8 @@ Below is the full-screen interactive view of the final developed dashboard:
 - Revenue at Risk: A substantial portion of monthly charges is currently categorized under high-risk churn segments, demanding immediate marketing intervention.
 
   
-![Dashboard Preview](Telco_customer_churn_preoject/dashboard.png)
 
+![Dashboard Preview](Telco_customer_churn_preoject/dashboard.png)
 ## 💡 Strategic Recommendations
 1. Contract Conversion: Design attractive promotional incentives or loyalty discounts to transition high-risk month-to-month subscribers into stable, long-term annual contracts.
 2. Technical Audit: Conduct an immediate operational and infrastructure review of the Fiber Optic tier to detect and resolve network stability issues or price-to-value dissatisfaction.
