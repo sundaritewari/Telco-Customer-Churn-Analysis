@@ -24,7 +24,9 @@ Below is the full-screen interactive view of the final developed dashboard:
 - Infrastructure Drivers: Users subscribed to Fiber Optic internet service are leaving at a significantly higher rate than DSL users, indicating potential issues in pricing premium tiers or service quality.
 - Revenue at Risk: A substantial portion of monthly charges is currently categorized under high-risk churn segments, demanding immediate marketing intervention.
 
-![Dashboard Preview](Telco_customer_churn_preoject/Screenshot 2026-10-12 185523)
+  
+![Dashboard Preview](Telco_customer_churn_preoject/dashboard.png)
+
 
 ## 💡 Strategic Recommendations
 1. Contract Conversion: Design attractive promotional incentives or loyalty discounts to transition high-risk month-to-month subscribers into stable, long-term annual contracts.
