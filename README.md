@@ -25,7 +25,7 @@ Below is the full-screen interactive view of the final developed dashboard:
 - Revenue at Risk: A substantial portion of monthly charges is currently categorized under high-risk churn segments, demanding immediate marketing intervention.
 
   
-![Dashboard Preview](Telco_customer_churn_preoject/dashboard.png)
+![Dashboard Preview](https://githubusercontent.com)
 
 
 ## 💡 Strategic Recommendations
