@@ -16,7 +16,7 @@ This project focuses on analyzing customer churn data from a telecom company to 
 ## 📊 Dashboard Visual Preview
 Below is the full-screen interactive view of the final developed dashboard:
 
-![Dashboard Preview](Screenshot 2026-10-12 185523.png)
+
 ---
 
 ## 📝 Key Business Insights
@@ -24,7 +24,7 @@ Below is the full-screen interactive view of the final developed dashboard:
 - Infrastructure Drivers: Users subscribed to Fiber Optic internet service are leaving at a significantly higher rate than DSL users, indicating potential issues in pricing premium tiers or service quality.
 - Revenue at Risk: A substantial portion of monthly charges is currently categorized under high-risk churn segments, demanding immediate marketing intervention.
 
----
+---![Dashboard Preview](Telco_customer_churn_project/Screenshot 2026-10-12 185523.png)
 
 ## 💡 Strategic Recommendations
 1. Contract Conversion: Design attractive promotional incentives or loyalty discounts to transition high-risk month-to-month subscribers into stable, long-term annual contracts.
